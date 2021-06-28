@@ -1,3 +1,3 @@
 # Java-Course
 
-This repository contains lessons and exercises on the Java programming language.
+This repository contains lessons and exercises about Java programming language.
